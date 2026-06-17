@@ -104,6 +104,16 @@ SPA-ResUnet: Strip Pooling Attention ResUnet for Multi-class Segmentation of Ver
 - *2022.09* I won the championship in the INSTANCE 2022 Challenge at MICCAI 2022 for intracranial hemorrhage segmentation.
 - *2019.11* I won the China National Scholarship for Undergraduate Students.
 
+# 💻 Services
+- PC for Conference:
+
+  ECCV, MICCAI, ISBI
+  
+- PC for Journal:
+
+  IEEE TMI/TNNLS/TMM
+  KBS, ESWA, AIIM, CMIG, CMPB
+
 # 📖 Educations
 - *2025.08 - now*, Visiting PhD Student @ <a href="https://www.nus.edu.sg/">National University of Singapore</a>, supervised by Prof. <a href="https://yuemingjin.github.io/">Yueming Jin</a>
 - *2023.09 - now*, PhD Student @ <a href="https://www.smu.edu.cn/english/">Southern Medical University</a>, supervised by Prof. <a href="https://scholar.google.com/citations?user=Br-t_8cAAAAJ&hl">Wei Yang</a>
