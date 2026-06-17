@@ -19,6 +19,8 @@ redirect_from:
 
 I received my Ph.D. training at the  <a href="https://www.smu.edu.cn/english/">Southern Medical University (SMU)</a> under the supervision of Prof.  <a href="https://scholar.google.com/citations?user=Br-t_8cAAAAJ&hl">Wei Yang </a> , and was also a visiting Ph.D. student at the <a href="https://www.nus.edu.sg/">National University of Singapore</a> supervised by Prof. <a href="https://yuemingjin.github.io/">Yueming Jin</a>. My research interests include medical image synthesis, medical image segmentation, and prognosis analysis. My work has been published in leading conferences and journals in medical image analysis, including MedIA, TMI, CVPR, MICCAI and ISBI.
 
+<span class='anchor' id='publications'></span>
+
 # 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026</div><img src='images/MICCAI2026.jpg' alt="sym" width="100%"></div></div>
