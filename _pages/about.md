@@ -24,7 +24,7 @@ I received my Ph.D. training at the  <a href="https://www.smu.edu.cn/english/">S
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026</div><img src='images/MICCAI2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Physics-driven Cold Diffusion with Severity-aware Sampling and Adaptive Degradation Estimation for MRI Motion Artifact Removal]
+Physics-driven Cold Diffusion with Severity-aware Sampling and Adaptive Degradation Estimation for MRI Motion Artifact Removal
 
 **Chuanpu Li**, Jinlong Zhang, Yuan Yang, Yueming Jin, Wei Yang
 
@@ -37,13 +37,39 @@ I received my Ph.D. training at the  <a href="https://www.smu.edu.cn/english/">S
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/MICCAI2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Boosting Medical Image Synthesis via Registration-guided Consistency and Disentanglement Learning]
+Boosting Medical Image Synthesis via Registration-guided Consistency and Disentanglement Learning
 
 **Chuanpu Li∗**, Zeli Chen∗, Yiwen Zhang, Liming Zhong, Wei Yang
 
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a registration-guided consistency framework for medical image synthesis, which enforces geometry-preserving synthesis by aligning the outputs of synthesis-before-registration and synthesis-after-registration branches.
 - We introduce anatomy consistency disentanglement learning to separate anatomical content from modality-specific styles.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2024</div><img src='images/TMI2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+DoseDiff: Distance-aware Diffusion Model for Dose Prediction in Radiotherapy
+
+Yiwen Zhang∗, **Chuanpu Li∗**, Liming Zhong, Zeli Chen, Wei Yang, Xuetao Wang
+
+# <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose DoseDiff, a distance-aware conditional diffusion model for radiotherapy dose prediction, which leverages physical-space signed distance maps to capture spatial relationships between targets, OARs, and surrounding tissues.
+- We design a multi-encoder and multi-scale fusion network to effectively integrate CT and distance-aware features, achieving superior dose prediction performance with improved visual quality.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2023</div><img src='images/TMI2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Breath-Hold CBCT-Guided CBCT-to-CT Synthesis via Multimodal Unsupervised Representation Disentanglement Learning
+
+Yiwen Zhang∗, **Chuanpu Li∗**, Zhenhui Dai, Liming Zhong, Xuetao Wang, Wei Yang
+
+# <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We introduce breath-hold CBCT as training guidance and decompose breast CBCT-to-CT synthesis into motion artifact reduction and intensity correction, improving synthesis from free-breathing CBCT.
+- We propose a multimodal unsupervised representation disentanglement framework to separate content, style, and artifact representations, preserving structural consistency while achieving superior synthetic CT quality.
 </div>
 </div>
 
