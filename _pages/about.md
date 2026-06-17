@@ -26,7 +26,7 @@ I received my Ph.D. training at the  <a href="https://www.smu.edu.cn/english/">S
 
 [Physics-driven Cold Diffusion with Severity-aware Sampling and Adaptive Degradation Estimation for MRI Motion Artifact Removal]
 
-Chuanpu Li, Jinlong Zhang, Yuan Yang, Yueming Jin, Wei Yang
+**Chuanpu Li**, Jinlong Zhang, Yuan Yang, Yueming Jin, Wei Yang
 
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a physics-driven cold diffusion framework for MRI motion artifact removal, where the diffusion process is modeled as an acquisition-consistent k-space degradation rather than Gaussian noising.
@@ -37,13 +37,13 @@ Chuanpu Li, Jinlong Zhang, Yuan Yang, Yueming Jin, Wei Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/MICCAI2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Physics-driven Cold Diffusion with Severity-aware Sampling and Adaptive Degradation Estimation for MRI Motion Artifact Removal]
+[Boosting Medical Image Synthesis via Registration-guided Consistency and Disentanglement Learning]
 
-Chuanpu Li, Jinlong Zhang, Yuan Yang, Yueming Jin, Wei Yang
+**Chuanpu Li∗**, Zeli Chen∗, Yiwen Zhang, Liming Zhong, Wei Yang
 
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose a physics-driven cold diffusion framework for MRI motion artifact removal, where the diffusion process is modeled as an acquisition-consistent k-space degradation rather than Gaussian noising.
-- We introduce severity-aware sampling and adaptive degradation estimation to guide deterministic restoration across diverse motion patterns and artifact levels.
+- We propose a registration-guided consistency framework for medical image synthesis, which enforces geometry-preserving synthesis by aligning the outputs of synthesis-before-registration and synthesis-after-registration branches.
+- We introduce anatomy consistency disentanglement learning to separate anatomical content from modality-specific styles.
 </div>
 </div>
 
