@@ -19,7 +19,7 @@ redirect_from:
 
 I received my Ph.D. training at the  <a href="https://www.smu.edu.cn/english/">Southern Medical University (SMU)</a> under the supervision of Prof.  <a href="https://scholar.google.com/citations?user=Br-t_8cAAAAJ&hl">Wei Yang </a> , and was also a visiting Ph.D. student at the <a href="https://www.nus.edu.sg/">National University of Singapore</a> supervised by Prof. <a href="https://yuemingjin.github.io/">Yueming Jin</a>. My research interests include medical image synthesis, medical image segmentation, and prognosis analysis. My work has been published in leading conferences and journals in medical image analysis, including MedIA, TMI, MICCAI and ISBI.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026</div><img src='images/MICCAI2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -34,7 +34,7 @@ Physics-driven Cold Diffusion with Severity-aware Sampling and Adaptive Degradat
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/MICCAI2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/MICCAI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Boosting Medical Image Synthesis via Registration-guided Consistency and Disentanglement Learning
@@ -97,18 +97,13 @@ SPA-ResUnet: Strip Pooling Attention ResUnet for Multi-class Segmentation of Ver
 </div>
 </div>
 
-
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* I won the dual-track championship in the SynthRAD2023 Grand Challenge at MICCAI 2023, ranking 1st in both MRI-to-CT and CBCT-to-CT synthesis tracks.
+- *2022.09* I won the championship in the INSTANCE 2022 Challenge at MICCAI 2022 for intracranial hemorrhage segmentation.
+- *2019.11* I won the China National Scholarship for Undergraduate Students.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08 - now*, Visiting PhD Student @ <a href="https://www.nus.edu.sg/">National University of Singapore</a>, supervised by Prof. <a href="https://yuemingjin.github.io/">Yueming Jin</a>
+- *2023.09 - now*, PhD Student @ <a href="https://www.smu.edu.cn/english/">Southern Medical University</a>, supervised by Prof. <a href="https://scholar.google.com/citations?user=Br-t_8cAAAAJ&hl">Wei Yang</a>
+- *2021.09 - 2023.08*, Master Student @ <a href="https://www.smu.edu.cn/english/">Southern Medical University</a>, supervised by Prof. <a href="https://scholar.google.com/citations?user=Br-t_8cAAAAJ&hl">Wei Yang</a>
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
