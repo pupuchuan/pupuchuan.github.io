@@ -73,6 +73,31 @@ Yiwen Zhang∗, **Chuanpu Li∗**, Zhenhui Dai, Liming Zhong, Xuetao Wang, Wei Y
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cancer Imaging</div><img src='images/cancer imaging.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A deep learning model to enhance the classification of primary bone tumors based on incomplete multimodal images in X-ray, CT, and MRI
+
+Liwen Song∗, **Chuanpu Li∗**, Lilian Tan∗, Menghong Wang, Xiaqing Chen, Qiang Ye, Shisi Li, Rui Zhang, Qinghai Zeng, Zhuoyao Xie, Wei Yang, Yinghua Zhao
+
+# <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a Transformer-based fusion model to classify primary bone tumors using incomplete multimodal images from X-ray, CT, and MRI, enabling robust diagnosis when certain imaging modalities are missing in real-world clinical scenarios.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2022</div><img src='images/ISBI2022.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+SPA-ResUnet: Strip Pooling Attention ResUnet for Multi-class Segmentation of Vertebrae and intervertebral Discs
+
+**Chuanpu Li**, Tianbao Liu, Zeli Chen, Shumao Pang, Liming Zhong, Qianjin Feng, Wei Yang
+
+# <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose SPA-ResUNet, a strip-pooling attention based residual U-Net for multi-class segmentation of vertebrae and intervertebral discs, effectively capturing long-range spinal dependencies and improving segmentation of challenging top structures and the sacral crest.
+</div>
+</div>
+
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
